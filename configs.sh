@@ -18,10 +18,10 @@ alias python='python3'
 alias vimrc='vim ~/.vimrc'
 alias bashrc='vim ~/.bash_profile'
 
-#auto updts profile
+# auto updts profile
 alias loadbash='source ~/.bash_profile'
 
-#color in grep
+# color in grep
 export GREP_OPTIONS=' — color=auto'
 
 # Set Vim as my default editor
