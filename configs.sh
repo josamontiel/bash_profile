@@ -5,11 +5,11 @@
 
 alias ip-addr="ifconfig en0| grep \"inet[ ]\" | awk '{print \$2}'"
 
-alias q=’exit’
+alias q='exit'
 alias p='bat'
-alias c=’clear’
-alias lsa=’ls -a’
-alias lsl=’ls -l’
+alias c='clear'
+alias lsa='ls -a'
+alias lsl='ls -l'
 alias home='cd ~'
 alias root='cd /'
 alias dtop='cd ~/Desktop'
