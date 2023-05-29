@@ -17,7 +17,8 @@ alias ..='cd ..'
 alias python='python3'
 alias vimrc='vim ~/.vimrc'
 alias bashrc='vim ~/.bash_profile'
-
+alias gitc='git commit -a'
+alias push='git push'
 # auto updts profile
 alias loadbash='source ~/.bash_profile'
 
